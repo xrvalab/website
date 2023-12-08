@@ -1,3 +1,3 @@
-# Bangor Immersive Environments Lab
+# XREality, Visualization and Analytics Lab
 
 Coming soon...
