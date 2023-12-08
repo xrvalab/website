@@ -1,3 +1,3 @@
-# XREality, Visualization and Analytics Lab
+# XReality, Visualization and Analytics Lab
 
 Coming soon...
