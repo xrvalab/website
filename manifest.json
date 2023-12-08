@@ -1,0 +1,11 @@
+{
+  "name": "Bangor Immersive Environments Lab",
+  "shortname": "Bangor IEL",
+  "icons": [{
+    "src": "favicon.png",
+    "sizes": "512x512"
+  }],
+  "background_color": "#204069",
+  "theme_color": "#204069",
+  "display": "fullscreen"
+}
